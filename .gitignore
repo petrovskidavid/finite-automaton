@@ -31,3 +31,4 @@
 *.out
 *.app
 fa
+*.DS_Store
