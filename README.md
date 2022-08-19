@@ -25,9 +25,14 @@ The following is the format that the input file must have for a NFA:
 Example:
 ```
 N
-52
+5 2
 2
-4 201203 120 1212 014 1414
+4 
+2 0 1 2 0 3 
+1 2 0 
+1 2 1 2 
+0 1 4 
+1 4 1 4
 5
 a
 ab
